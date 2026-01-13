@@ -237,7 +237,8 @@ main>section {
 
     .navbar,
     .nav-links,
-    .teams .feature {
+    .teams,
+    .feature {
         flex-direction: column;
     }
 
