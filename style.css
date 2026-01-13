@@ -218,6 +218,18 @@ main>section {
     filter: grayscale(100%);
 }
 
+/* footer style */
+.footer-container {
+    font-size: 1.25rem;
+    text-align: center;
+    margin: 130px auto 216px;
+    max-width: 1440px;
+    width: 100%;
+}
+
+.footer-container p {
+    padding: 39px;
+}
 
 /* responsive media query */
 
